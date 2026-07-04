@@ -153,8 +153,7 @@ Below are the screenshots and video logs demonstrating the visual layout and ope
 
 ### 2. Multi-Agent Conversation & Visual Diagnostics Demo
 
-
-https://github.com/user-attachments/assets/587561c3-68a9-403a-920d-0aebf2008dbe
+https://github.com/user-attachments/assets/eb525c02-5801-4d09-991f-9165c0c42344
 
 
 
