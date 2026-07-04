@@ -152,5 +152,7 @@ Below are the screenshots and video logs demonstrating the visual layout and ope
 <img width="959" height="430" alt="Screenshot 2026-07-04 121536" src="https://github.com/user-attachments/assets/397b48a6-112c-405a-9535-7e6a6bc8efae" />
 
 ### 2. Multi-Agent Conversation & Visual Diagnostics Demo
-![Dashboard Demo](assets/dashboard_demo.webp)
+https://github.com/user-attachments/assets/9a25f218-d5b3-408d-a409-7a67cca867c1
+
+
 
