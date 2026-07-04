@@ -149,7 +149,7 @@ pytest tests/
 Below are the screenshots and video logs demonstrating the visual layout and operations of the AI Farmer Assistant app:
 
 ### 1. Dashboard Interface
-![Dashboard Screen](assets/dashboard_screenshot.png)
+<img width="959" height="430" alt="Screenshot 2026-07-04 121536" src="https://github.com/user-attachments/assets/397b48a6-112c-405a-9535-7e6a6bc8efae" />
 
 ### 2. Multi-Agent Conversation & Visual Diagnostics Demo
 ![Dashboard Demo](assets/dashboard_demo.webp)
