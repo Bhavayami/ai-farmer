@@ -1,0 +1,30 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Databases and Sessions
+*.db
+farming.db
+test_farming.db
+
+# Application Logs & Temporary Files
+*.log
+app.log
+scratch/
+response.mp3
+
+# Local Environment Variables & Secrets
+.env
+.env.local
+
+# IDE Configs
+.vscode/
+.idea/
+.gemini/
+.gitattributes

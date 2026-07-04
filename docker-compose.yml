@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  farmer-assistant:
+    build: .
+    container_name: farmer_assistant_app
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./scratch:/app/scratch
+      - ./farming.db:/app/farming.db
+    restart: unless-stopped
